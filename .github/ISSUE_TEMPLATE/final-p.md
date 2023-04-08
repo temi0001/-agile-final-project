@@ -9,4 +9,4 @@ assignees: ''
 
 As a 
 I need
-As to
+So that
