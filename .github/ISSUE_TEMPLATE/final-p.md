@@ -10,3 +10,7 @@ assignees: ''
 As a 
 I need
 So that
+
+Given
+When
+Then
